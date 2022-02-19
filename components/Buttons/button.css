@@ -1,0 +1,170 @@
+.buttons-container {
+    margin-top: 5rem;
+}
+
+.Outline-Buttons {
+    display: flex;
+    justify-content: space-around;
+    height: 5rem;
+    width: 55rem;
+    border: 2px solid blue;
+    cursor: pointer;
+}
+
+.primary-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: black;
+    border: 2px solid blue;
+}
+
+.iframe-default {
+    margin: 2rem;
+}
+
+.primary-button:hover {
+    color: white;
+    background-color: blue;
+}
+
+.secondary-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: black;
+    border: 2px solid blue;
+}
+
+.secondary-button:hover {
+    color: white;
+    background-color: blue;
+}
+
+.success-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: black;
+    border: 2px solid green;
+}
+
+.success-button:hover {
+    background-color: green;
+    color: white;
+}
+
+.warning-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: black;
+    border: 2px solid #ffc107;
+    ;
+}
+
+.warning-button:hover {
+    color: white;
+    background-color: #ffc107;
+}
+
+.danger-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: black;
+    border: 2px solid red;
+}
+
+.danger-button:hover {
+    color: white;
+    background-color: red;
+}
+
+.button-solid-primary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: white;
+    background-color: #2D3092;
+    border: 2px solid blue;
+}
+
+.button-solid-secondary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: white;
+    background-color: #2D3092;
+    border: 2px solid blue;
+}
+
+.button-solid-success {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: white;
+    background-color: green;
+    border: 2px solid black;
+}
+
+.button-solid-warning {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: whitesmoke;
+    background-color: #ffc107;
+    border: 2px solid black;
+}
+
+.button-solid-danger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 7rem;
+    color: whitesmoke;
+    background-color: red;
+    border: 2px solid black;
+}
+
+.floating-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    height: 3rem;
+    width: 3rem;
+    color: whitesmoke;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 7rem;
+}
