@@ -1,0 +1,32 @@
+.success-Toast {
+    background-color: green;
+    margin-left: 2rem;
+    color: white;
+    text-align: center;
+    margin-bottom: 1rem;
+    height: 3.5rem;
+    width: 29rem;
+    border: 2px solid green;
+}
+
+.error-Toast {
+    text-align: center;
+    background-color: #d90715;
+    ;
+    color: white;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    height: 3.5rem;
+    width: 29rem;
+    border: 2px solid #d90715;
+}
+
+.warning-Toast {
+    text-align: center;
+    background-color: #ffb303;
+    margin-bottom: 1rem;
+    height: 3.5rem;
+    margin-left: 2rem;
+    width: 29rem;
+    border: 2px solid #ffb303;
+}
