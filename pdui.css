@@ -76,8 +76,8 @@ h1 {
 .alert-msg {
     display: flex;
     justify-content: left;
-    height: 57px;
-    width: 522px;
+    height: 3.563rem;
+    width: 32.625;
 }
 
 .fail-alert {
@@ -344,10 +344,6 @@ h1 {
     margin-top: 1rem;
     display: flex;
     justify-content: left;
-    /* height: 12rem;
-width: 444px;*/
-    /* border: 2px solid gray;
-*/
 }
 
 .round img {
@@ -572,7 +568,7 @@ nav a {
     margin-left: 1rem;
     height: 10.5rem;
     width: 29rem;
-    border: 2px solid gray;
+    border: none;
     box-shadow: 3px 1px 3px 1px gray;
 }
 
@@ -624,17 +620,16 @@ nav a {
     height: 90%;
     display: flex;
     justify-content: center;
+    margin-top: 7rem;
 }
 
 .login-heading {
     color: darkblue;
-    margin-top: 5rem;
 }
 
 .login-form {
     background-color: white;
     width: 18rem;
-    height: 25rem;
 }
 
 .input-box {
@@ -781,7 +776,7 @@ ul.inline-list {
     border: 2px solid #323232;
 }
 
-.Texts-container {
+.texts-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
