@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkblue;
+    height: 4rem;
+}
+
+.search-bar {
+    height: 1.7rem;
+    width: 16rem;
+    margin-top: 1rem;
+}
+
+.btn-login {
+    width: 11rem;
+    color: black;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
