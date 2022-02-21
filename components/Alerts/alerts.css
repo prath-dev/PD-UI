@@ -1,0 +1,39 @@
+.alert-msg {
+    display: flex;
+    justify-content: left;
+    height: 57px;
+    width: 522px;
+}
+
+.fail-alert {
+    display: flex;
+    height: 4rem;
+    width: 34rem;
+    border: 2px solid red;
+    background-color: rgb(216, 86, 86, 0.5)
+}
+
+.warning-alert {
+    display: flex;
+    height: 4rem;
+    width: 34rem;
+    border: 2px solid #ff9204;
+    background-color: #ff9204;
+}
+
+.success-alert {
+    display: flex;
+    height: 4rem;
+    width: 34rem;
+    border: 2px solid rgba(255, 174, 68);
+    background-color: lightgreen;
+}
+
+.primary-alert {
+    display: flex;
+    height: 4rem;
+    width: 34rem;
+    border: 2px solid rgba(255, 174, 68);
+    background-color: #7FD2E6;
+    ;
+}
