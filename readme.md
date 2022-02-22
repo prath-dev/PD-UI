@@ -1,6 +1,6 @@
 # PD-UI
 
- ## PD UI helps you to quickly build your projects, by focusing much on functionality and not worring about your designs.
+ ### PD UI helps you to quickly build your projects, by focusing much on functionality and not worring about your designs.
  ## QuickStart
  ## To start using the components in your project, Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
     <link
