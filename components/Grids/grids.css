@@ -1,0 +1,42 @@
+.grid-container {
+    display: grid;
+    justify-content: left;
+    align-items: left;
+    width: 62rem;
+    border: 2px solid red;
+    grid-template-columns: 14rem 14rem 14rem;
+    column-gap: 7rem;
+    margin-left: 5rem;
+}
+
+.items {
+    height: 20rem;
+    width: 16rem;
+    margin-left: 1rem;
+}
+
+.img1 {
+    width: 15rem;
+    height: 19rem;
+}
+
+.grid2-container {
+    display: grid;
+    justify-content: left;
+    height: 20rem;
+    width: 43rem;
+    border: 2px solid red;
+    grid-template-columns: 14rem 14rem 14rem;
+    column-gap: 7rem;
+}
+
+.items2 {
+    height: 14rem;
+    width: 22rem;
+    margin-left: 0.5rem;
+}
+
+.image {
+    width: 15rem;
+    height: 18rem;
+}

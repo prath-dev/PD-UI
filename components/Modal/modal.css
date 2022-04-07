@@ -1,0 +1,47 @@
+.open-modal {
+    color: blue;
+    background: orange;
+    width: 5rem;
+    height: 1.3rem;
+    width: 7rem;
+    height: 2rem;
+    border: 2px solid black;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0rem;
+    left: 0rem;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
+}
+
+.modal {
+    position: fixed;
+    top: -150%;
+    left: 50%;
+    transform: translate (50%, 50%);
+    width: 400px;
+    padding: 20px;
+    background: white;
+}
+
+body.modal-active .modal {
+    top: 50%;
+}
+
+.close {
+    color: blue;
+    background: orange;
+    width: 5rem;
+    height: 1.3rem;
+    width: 7rem;
+    height: 2rem;
+    border: 2px solid black;
+}
+
+body.modal-active .modal-overlay {
+    display: block;
+}
