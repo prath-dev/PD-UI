@@ -1,0 +1,19 @@
+.ratings label {
+    width: 100rem;
+    position: relative;
+    cursor: pointer;
+    color: orange;
+}
+
+.ratings label:before {
+    content: "★";
+    font-size: 3rem;
+}
+
+.ratings label:hover {
+    color: yellow;
+}
+
+.ratings input {
+    display: none;
+}
