@@ -103,3 +103,172 @@
     cursor: pointer;
     color: white;
 }
+
+.outofstock-card {
+    position: relative;
+    height: 24rem;
+    width: 19rem;
+    /* border : 2px solid blue ;*/
+    background-color: #f3f4f6;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 20%);
+}
+
+.badge-outofstock {
+    position: absolute;
+    right: 10.5rem;
+    top: 8rem;
+    height: 1rem;
+    width: 3rem;
+    cursor: pointer;
+    color: red;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.card-btn {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    cursor: pointer;
+    margin: right;
+}
+
+.text {
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.outofstock-card img {
+    width: 19rem;
+    height: 16rem;
+}
+
+.whishlist {
+    height: 2rem;
+    width: 8rem;
+    color: darkblue;
+    border: 2px solid blue;
+    background-color: white;
+    cursor: pointer;
+}
+
+.cart {
+    height: 2rem;
+    width: 8rem;
+    color: white;
+    border: 2px solid blue;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.dismiss-card {
+    position: relative;
+    height: 24rem;
+    width: 19rem;
+    background-color: #f3f4f6;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 20%);
+}
+
+.badge-dismiss {
+    position: absolute;
+    right: 0.2rem;
+    top: 1rem;
+    height: 1rem;
+    width: 3rem;
+    cursor: pointer;
+}
+
+.card-btn {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    cursor: pointer;
+    margin: right;
+}
+
+.text {
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.dismiss-card img {
+    width: 19rem;
+    height: 16rem;
+}
+
+.whishlist {
+    height: 2rem;
+    width: 8rem;
+    color: darkblue;
+    border: 2px solid blue;
+    background-color: white;
+    cursor: pointer;
+}
+
+.cart {
+    height: 2rem;
+    width: 8rem;
+    color: white;
+    border: 2px solid blue;
+    background-color: blue;
+    cursor: pointer;
+}
+
+.badge-card {
+    position: relative;
+    height: 24rem;
+    width: 19rem;
+    /* border : 2px solid blue ;*/
+    background-color: #f3f4f6;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 20%);
+}
+
+.badge-new {
+    position: absolute;
+    right: 0.2rem;
+    color: white;
+    background: blue;
+    top: 1rem;
+    border: 2px solid blue;
+    height: 1rem;
+    width: 3rem;
+}
+
+.card-btn {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    cursor: pointer;
+    margin: right;
+}
+
+.text {
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.vertical-card img {
+    width: 19rem;
+    height: 16rem;
+}
+
+.whishlist {
+    height: 2rem;
+    width: 8rem;
+    color: darkblue;
+    border: 2px solid blue;
+    background-color: white;
+    cursor: pointer;
+}
+
+.cart {
+    height: 2rem;
+    width: 8rem;
+    color: white;
+    border: 2px solid blue;
+    background-color: blue;
+    cursor: pointer;
+}
