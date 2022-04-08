@@ -1,3 +1,7 @@
+.body {
+    text-decoration: none;
+}
+
 .buttons-container {
     margin-top: 5rem;
 }
@@ -167,4 +171,19 @@
     background-color: blue;
     border: 2px solid black;
     border-radius: 7rem;
+}
+
+.link-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    background: orange;
+    width: 5rem;
+    height: 1.3rem;
+    width: 7rem;
+    height: 2rem;
+    border: 2px solid black;
+    margin-top: 1.3rem;
+    text-decoration: none;
 }
